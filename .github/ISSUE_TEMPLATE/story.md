@@ -1,6 +1,6 @@
 ---
 name: Story
-about: subtitle
+about: beautiful moments
 
 ---
 
